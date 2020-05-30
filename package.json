@@ -1,0 +1,22 @@
+{
+  "name": "xiaoce-exporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.ts",
+  "scripts": {
+    "export": "ts-node ./src/main.ts"
+  },
+  "keywords": [],
+  "author": "Jiahao Li",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.5",
+    "@types/puppeteer": "^3.0.0",
+    "ts-node": "^8.10.2",
+    "tslint": "^6.1.2",
+    "typescript": "^3.9.3"
+  }
+}

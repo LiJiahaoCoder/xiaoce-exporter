@@ -1,0 +1,12 @@
+# node packages
+node_modules
+
+# build files
+dist
+.cache
+
+# yarn error log
+yarn-error.log
+
+# IDEA
+.idea
